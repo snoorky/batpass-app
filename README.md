@@ -2,7 +2,7 @@
 
 BatPass is a simple and secure **random password generator** built with **React Native** and **Expo**. Users can generate a **random secure password** with a single tap and copy it to their clipboard for easy use.
 
-<img src="/assets/screenshot.png" alt="Application screenshot" />
+<img src="/assets/screenshot.png" alt="Application screenshot" width="300" />
 
 ## 📚 Technologies
 
